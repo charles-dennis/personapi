@@ -68,7 +68,7 @@
 							<artifactId>lombok</artifactId>
 						</exclude>
 					</excludes>
-				</configuration>
+				</configuration><!--$NO-MVN-MAN-VER$-->
 			</plugin>
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
